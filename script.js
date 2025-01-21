@@ -111,7 +111,7 @@ const sections = [
         imgSrc: "https://i.postimg.cc/2ymdphtt/IMG-2256.png",
         date: "Eternity",
         content: "You are so fuckin sexy oh my fuuuuuuuuuckin goodness you are, delicious. A short glass of I can't wait to beat that ass again... You my love are something ELSE!"
-    }/*
+    },/*
     {
         id: "",
         title: "",
