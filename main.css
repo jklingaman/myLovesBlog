@@ -1,0 +1,56 @@
+body {
+    background: #FFE3E0;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: #F7A399;
+}
+a:hover {
+    color: black;
+    transition: 0.5s;
+}
+h1 {
+    color: #EF6351;
+    text-align: center;
+    font-size: 36px;
+}
+h2 {
+    color: #F38375;
+    text-align: center;
+}
+h3 {
+    color: #F38375;
+    text-align: center;
+}
+h6 {
+    color: #FBC3BC;
+    text-align: center;
+}
+ol {
+    list-style-type: none;
+    padding: 0;
+    margin: 0 auto;
+    display: block;
+}
+ol, li {
+    display: inline-block;
+    text-align: center;
+    margin: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+} 
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20%;
+}
+.discord {
+    border-radius: 0%;
+}
+p {
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
